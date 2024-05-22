@@ -1,10 +1,10 @@
-## Hey 👋, I'm Rahul Jha!
-<a href='https://www.linkedin.com/in/devanshu-singh-541622242/'><img align='left' alt="linkedin" src="https://www.google.com/search?q=linkedinicon&oq=linkedinicon&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABgKGLEDGIAEMgwIAhAAGAoYsQMYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIJCAcQABgKGIAEMgkICBAAGAoYgAQyCQgJEAAYChiABNIBCTU0NTRqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8#vhid=KSwAtVH93tSnsM&vssid=l" height='18px'/></a>
-<a href='https://www.facebook.com/devanshusingh76/'><img align='left' alt="facebook" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+## Hey 👋, I'm Devanshu Singh!
+<a href='https://www.linkedin.com/in/devanshu-singh-541622242/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.facebook.com/devanshusingh76/'><img align='left' alt="facebook" src="https://raw.githubusercontent.com/devanshu-singhh/devanshu-singhh/561d474902b59c7429ec22bb73e225696c27b202/assets/facebook.svg" height='18px'/></a>
+<a href='https://www.instagram.com/devanshu_singh_rajput/'><img alt="instagram" src="https://raw.githubusercontent.com/devanshu-singhh/devanshu-singhh/561d474902b59c7429ec22bb73e225696c27b202/assets/instagram.svg" height='18px'/></a>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am passionate Web Developer, Programmer and Graphic Designer.I love solving new technical tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
@@ -12,15 +12,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 🔭 &nbsp; I’m currently working on **Bilingual Fake News Detection Project**
+- 🌱 &nbsp; I’m currently learning Machine Learning and Backend Development; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/devanshu-singhh?tab=repositories)
+- 💬 &nbsp; Ask me about HTML, CSS, JAVASCRIPT, MySQL, DSA, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/devanshu-singh-541622242/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Rr-zqyiTI8ZbLiBGFf5W7goh1deM6o9g/view?usp=sharing)
+- 📚 &nbsp; When I am free, I love to play cricket and PC Games.
 
 <br>
 
