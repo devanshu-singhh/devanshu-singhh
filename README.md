@@ -50,5 +50,5 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 ### 📊 Github Stats
 <a href='https://github.com/devanshu-singhh/github-stats-transparent'>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu-singhh&show_icons=true&locale=en&layout=compact" alt="devanshu-singhh" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshu-singhh&show_icons=true&locale=en" alt="devanshu-singhh" />
+<img src="https://github-readme-stats.vercel.app/api?username=devanshu-singhh&show_icons=true&locale=en" alt="devanshu-singhh" />
 </a>
