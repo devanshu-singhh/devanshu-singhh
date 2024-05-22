@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devanshu Singh</h1>
 I am passionate Web Developer, Programmer and Graphic Designer.I love solving new technical tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-
+<br>
+<br>
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Bilingual Fake News Detection Project**
@@ -22,14 +19,14 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 <a href="https://fb.com/devanshusingh76" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devanshusingh76" height="30" width="40" /></a>
 <a href="https://instagram.com/devanshu_singh_rajput" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devanshu_singh_rajput" height="30" width="40" /></a>
 
-  
+<br>
 <br>
   
 ### 👨‍💻 Coding Profiles:
 <a href="https://www.leetcode.com/devanshusingh76" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanshusingh76" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/devanshu_singh" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devanshu_singh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/devanshu76" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devanshu76" height="30" width="40" /></a>
-
+<br>
 <br>
 
 ### 🔨 Languages and Tools:
@@ -43,11 +40,11 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="left" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-
+<br>
 <br>
 
 ### 📊 Github Stats
 <a href='https://github.com/devanshu-singhh/github-stats-transparent'>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu-singhh&show_icons=true&locale=en&layout=compact" alt="devanshu-singhh" height="400" />
-<img src="https://github-readme-stats.vercel.app/api?username=devanshu-singhh&show_icons=true&locale=en" alt="devanshu-singhh" height="400" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu-singhh&show_icons=true&locale=en&layout=compact" alt="devanshu-singhh" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=devanshu-singhh&show_icons=true&locale=en" alt="devanshu-singhh" height="200" />
 </a>
