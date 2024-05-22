@@ -1,7 +1,9 @@
 ## Hey 👋, I'm Devanshu Singh!
 <a href='https://www.linkedin.com/in/devanshu-singh-541622242/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://www.facebook.com/devanshusingh76/'><img align='left' alt="facebook" src="https://raw.githubusercontent.com/devanshu-singhh/devanshu-singhh/561d474902b59c7429ec22bb73e225696c27b202/assets/facebook.svg" height='18px'/></a>
-<a href='https://www.instagram.com/devanshu_singh_rajput/'><img alt="instagram" src="https://raw.githubusercontent.com/devanshu-singhh/devanshu-singhh/561d474902b59c7429ec22bb73e225696c27b202/assets/instagram.svg" height='18px'/></a>
+<a href='https://www.instagram.com/devanshu_singh_rajput/'><img align='left' alt="instagram" src="https://raw.githubusercontent.com/devanshu-singhh/devanshu-singhh/561d474902b59c7429ec22bb73e225696c27b202/assets/instagram.svg" height='18px'/></a>
+<a href='https://leetcode.com/u/devanshusingh76/'><img align='left' alt="leetcode" src="https://raw.githubusercontent.com/devanshu-singhh/devanshu-singhh/561d474902b59c7429ec22bb73e225696c27b202/assets/leetcode.svg" height='18px'/></a>
+<a href='https://codeforces.com/profile/devanshu_singh'><img alt="codeforces" src="https://raw.githubusercontent.com/devanshu-singhh/devanshu-singhh/561d474902b59c7429ec22bb73e225696c27b202/assets/codeforces.svg" height='18px'/></a>
 
 
 I am passionate Web Developer, Programmer and Graphic Designer.I love solving new technical tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -43,8 +45,8 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/devanshu-singhh/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/devanshu-singhh/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
