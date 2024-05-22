@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Bilingual Fake News Detection Project**
 
-- 🌱 I’m currently learning **ML and Backend Dev**
+- 🌱 I’m currently learning **ML and Backend Devlopment**
 
 - 💬 Ask me about **HTML,CSS,JavaScript,MySQL,DSA**
 
-- 📫 How to reach me **rajputdevanshu9084@gmail.com**
+- 📫 How to reach me at **rajputdevanshu9084@gmail.com**
 
-- ⚡ Fun fact **The moon has moonquakes.**
+- ⚡ Fun fact : **The moon has moonquakes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
