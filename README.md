@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Devanshu Singh!
-<a href='https://www.linkedin.com/in/devanshu-singh-541622242/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/devanshu-singh-541622242/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/devanshu-singhh/devanshu-singhh/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://www.facebook.com/devanshusingh76/'><img align='left' alt="facebook" src="https://raw.githubusercontent.com/devanshu-singhh/devanshu-singhh/561d474902b59c7429ec22bb73e225696c27b202/assets/facebook.svg" height='18px'/></a>
 <a href='https://www.instagram.com/devanshu_singh_rajput/'><img align='left' alt="instagram" src="https://raw.githubusercontent.com/devanshu-singhh/devanshu-singhh/561d474902b59c7429ec22bb73e225696c27b202/assets/instagram.svg" height='18px'/></a>
 <a href='https://leetcode.com/u/devanshusingh76/'><img align='left' alt="leetcode" src="https://raw.githubusercontent.com/devanshu-singhh/devanshu-singhh/561d474902b59c7429ec22bb73e225696c27b202/assets/leetcode.svg" height='18px'/></a>
