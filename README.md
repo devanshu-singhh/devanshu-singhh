@@ -7,21 +7,22 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on *Bilingual Fake News Detection Project*
-- 🌱 &nbsp; I’m currently learning Machine Learning and Backend Development; 
+- 🔭 &nbsp; I’m currently working on **Bilingual Fake News Detection Project**
+- 🌱 &nbsp; I’m currently learning Machine Learning and Backend Development 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/devanshu-singhh?tab=repositories)
-- 💬 &nbsp; Ask me about HTML, CSS, JAVASCRIPT, MySQL, DSA;
+- 💬 &nbsp; Ask me about **HTML, CSS, JAVASCRIPT, MySQL, DSA**;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/devanshu-singh-541622242/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Rr-zqyiTI8ZbLiBGFf5W7goh1deM6o9g/view?usp=sharing)
 - 📚 &nbsp; When I am free, I love to play cricket,football and PC Games.
+<br>
 <br>
 
 ### 🔗 Connect with Me:
 <a href="https://linkedin.com/in/devanshu-singh-541622242" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanshu-singh-541622242" height="30" width="40" /></a>
 <a href="https://fb.com/devanshusingh76" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devanshusingh76" height="30" width="40" /></a>
 <a href="https://instagram.com/devanshu_singh_rajput" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devanshu_singh_rajput" height="30" width="40" /></a>
+
   
-<br>
 <br>
   
 ### 👨‍💻 Coding Profiles:
@@ -29,7 +30,6 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 <a href="https://codeforces.com/profile/devanshu_singh" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devanshu_singh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/devanshu76" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devanshu76" height="30" width="40" /></a>
 
-<br>
 <br>
 
 ### 🔨 Languages and Tools:
@@ -45,10 +45,9 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 <br>
-<br>
 
 ### 📊 Github Stats
 <a href='https://github.com/devanshu-singhh/github-stats-transparent'>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu-singhh&show_icons=true&locale=en&layout=compact" alt="devanshu-singhh" />
-<img src="https://github-readme-stats.vercel.app/api?username=devanshu-singhh&show_icons=true&locale=en" alt="devanshu-singhh" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu-singhh&show_icons=true&locale=en&layout=compact" alt="devanshu-singhh" height="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=devanshu-singhh&show_icons=true&locale=en" alt="devanshu-singhh" height="400" />
 </a>
