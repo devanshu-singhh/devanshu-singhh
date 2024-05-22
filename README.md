@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devanshu Singh</h1>
 I am passionate Web Developer, Programmer and Graphic Designer.I love solving new technical tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshu-singhh&label=Profile%20views&color=0e75b6&style=flat" alt="devanshu-singhh" /> </p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
@@ -18,8 +16,7 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 - 📚 &nbsp; When I am free, I love to play cricket,football and PC Games.
 <br>
 
-  ### Connect with Me:
-<p align="left">
+### 🔗 Connect with Me:
 <a href="https://linkedin.com/in/devanshu-singh-541622242" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanshu-singh-541622242" height="30" width="40" /></a>
 <a href="https://fb.com/devanshusingh76" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devanshusingh76" height="30" width="40" /></a>
 <a href="https://instagram.com/devanshu_singh_rajput" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devanshu_singh_rajput" height="30" width="40" /></a>
@@ -27,11 +24,10 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 <br>
 <br>
   
-  ### Coding Profiles:
-<a href="https://www.codechef.com/users/devanshu76" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devanshu76" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/devanshu_singh" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devanshu_singh" height="30" width="40" /></a>
+### 👨‍💻 Coding Profiles:
 <a href="https://www.leetcode.com/devanshusingh76" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanshusingh76" height="30" width="40" /></a>
-</p>
+<a href="https://codeforces.com/profile/devanshu_singh" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devanshu_singh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/devanshu76" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devanshu76" height="30" width="40" /></a>
 
 <br>
 <br>
