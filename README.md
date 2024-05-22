@@ -2,6 +2,7 @@
 I am passionate Web Developer, Programmer and Graphic Designer.I love solving new technical tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br>
 <br>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Bilingual Fake News Detection Project**
