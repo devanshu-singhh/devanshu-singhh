@@ -14,7 +14,6 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Rr-zqyiTI8ZbLiBGFf5W7goh1deM6o9g/view?usp=sharing)
 - 📚 &nbsp; When I am free, I love to play cricket,football and PC Games.
 <br>
-<br>
 
 ### 🔗 Connect with Me:
 <a href="https://linkedin.com/in/devanshu-singh-541622242" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanshu-singh-541622242" height="30" width="40" /></a>
@@ -47,6 +46,6 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 
 ### 📊 Github Stats
 <a href='https://github.com/devanshu-singhh/github-stats-transparent'>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu-singhh&show_icons=true&locale=en&layout=compact" alt="devanshu-singhh" height="200" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu-singhh&show_icons=true&locale=en&layout=compact" alt="devanshu-singhh" />
 <img src="https://github-readme-stats.vercel.app/api?username=devanshu-singhh&show_icons=true&locale=en" alt="devanshu-singhh" />
 </a>
