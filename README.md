@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Rahul Jha!
-<a href='https://www.linkedin.com/in/devanshu-singh-541622242/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/devanshu-singh-541622242/devanshu-singh-541622242/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/devanshu-singh-541622242/'><img align='left' alt="linkedin" src="https:https://www.google.com/search?q=linkedinicon&oq=linkedinicon&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIMCAEQABgKGLEDGIAEMgwIAhAAGAoYsQMYgAQyCQgDEAAYChiABDIJCAQQABgKGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIJCAcQABgKGIAEMgkICBAAGAoYgAQyCQgJEAAYChiABNIBCTU0NTRqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8#vhid=KSwAtVH93tSnsM&vssid=l" height='18px'/></a>
 <a href='https://www.facebook.com/devanshusingh76/'><img align='left' alt="facebook" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
