@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Devanshu Singh</h1>
-I am passionate Web Developer, Programmer and Graphic Designer.I love solving new technical tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<h1 align="center">Hello 👋, I'm Devanshu Singh</h1>
+I am passionate Web Developer, Programmer and Graphic Designer.I love solving new technical tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs. I'm persuing Electrical Engineering from NIT Silchar 🛠️. 
 <br>
 <br>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height="300" width="300px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height="330" width="330px"/>
 
 ### 🧐 More About Me:
 
@@ -48,5 +48,5 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 ### 📊 Github Stats
 <a href='https://github.com/devanshu-singhh/github-stats-transparent'>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu-singhh&show_icons=true&locale=en&layout=compact" alt="devanshu-singhh" height="200" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=devanshu-singhh&show_icons=true&locale=en" alt="devanshu-singhh" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=devanshu-singhh&show_icons=true&locale=en" alt="devanshu-singhh" height="200" />
 </a>
