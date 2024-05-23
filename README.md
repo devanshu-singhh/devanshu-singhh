@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Devanshu Singh</h1>
 I am passionate Web Developer, Programmer and Graphic Designer.I love solving new technical tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs. I'm persuing Electrical Engineering from NIT Silchar 🛠️. 
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshu-singhh&label=Profile%20views&color=0e75b6&style=flat" alt="devanshu-singhh" /> </p>
 <br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height="330" width="330px"/>
 
@@ -46,7 +47,7 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 
 ### 📊 Github Stats
 <div align="left">
-<a href='https://github.com/devanshu-singhh/github-stats-transparent'>
+<a href="https://github.com/devanshu-singhh">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devanshu-singhh&show_icons=true&locale=en" alt="devanshu-singhh" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshu-singhh&show_icons=true&locale=en&layout=compact" alt="devanshu-singhh" />
 </div>
