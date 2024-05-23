@@ -3,7 +3,7 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 <br>
 <br>
 <img align="left" src="https://komarev.com/ghpvc/?username=devanshu-singhh&label=Profile%20views&color=0e75b6&style=flat" alt="devanshu-singhh" />
-<br>
+</br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height="330" width="330px"/>
 
 ### 🧐 More About Me:
