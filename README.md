@@ -13,7 +13,7 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/devanshu-singhh?tab=repositories)
 - 💬 &nbsp; Ask me about **HTML, CSS, JAVASCRIPT, MySQL, DSA**;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/devanshu-singh-541622242/)
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Rr-zqyiTI8ZbLiBGFf5W7goh1deM6o9g/view?usp=sharing)
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1jpXQXkUiqf8g6pOUKPdpmGNxL1FtPNQB/view?usp=drive_link)
 - 📚 &nbsp; When I am free, I love to play cricket,football and PC Games.
 <br>
 
