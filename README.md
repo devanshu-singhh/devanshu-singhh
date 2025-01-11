@@ -8,10 +8,9 @@ I am passionate Web Developer, Programmer and Graphic Designer.I love solving ne
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Bilingual Fake News Detection Project**
 - 🌱 &nbsp; I’m currently learning Machine Learning and Backend Development 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/devanshu-singhh?tab=repositories)
-- 💬 &nbsp; Ask me about **HTML, CSS, JAVASCRIPT, MySQL, DSA**;
+- 💬 &nbsp; Ask me about **HTML, CSS, JAVASCRIPT, MySQL, DSA, ML**;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/devanshu-singh-541622242/)
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1jpXQXkUiqf8g6pOUKPdpmGNxL1FtPNQB/view?usp=drive_link)
 - 📚 &nbsp; When I am free, I love to play cricket,football and PC Games.
