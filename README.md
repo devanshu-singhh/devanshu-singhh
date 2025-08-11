@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Devanshu Singh</h1>
-I am passionate Web Developer, Programmer and Graphic Designer.I love solving new technical tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs. I'm persuing Electrical Engineering from NIT Silchar 🛠️. 
+I am passionate Web Developer, Programmer and Graphic Designer.I love solving new technical tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs. 
 <br>
 <br>
 <img align="left" src="https://komarev.com/ghpvc/?username=devanshu-singhh&label=Profile%20views&color=0e75b6&style=flat" alt="devanshu-singhh" />
